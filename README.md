@@ -1,0 +1,1 @@
+# FastAPI redis mySQL template dockerized project

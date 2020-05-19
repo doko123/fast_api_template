@@ -1,0 +1,6 @@
+asyncio
+dynaconf
+pytest
+pydantic
+ipdb
+flake8
